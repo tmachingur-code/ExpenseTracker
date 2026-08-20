@@ -1,5 +1,3 @@
-
-````markdown
 # Personal Expense Tracker
 
 A command-line expense tracking application built with Python. The project allows users to record, view, delete, and analyze their expenses with persistent JSON storage.
@@ -70,8 +68,6 @@ Through this project, I practiced:
 * Unit testing
 * Mocking user input
 * Git and GitHub workflow
-
-Future Improvements
 
 ## Possible future improvements include:
 
